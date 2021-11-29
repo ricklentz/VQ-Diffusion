@@ -10,8 +10,8 @@ Our code and model is ready, however, they are still under the review of the com
 
 ## Framework
 
-![framework](figures/framework.pdf)
+![framework](figures/framework.png)
 
 ## Samples
 
-![samples](figures/samples.pdf)
+![samples](figures/samples.png)
